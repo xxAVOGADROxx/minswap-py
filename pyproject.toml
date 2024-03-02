@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "minswap-py"
-version = "0.3.3"
+version = "0.3.4"
 description = ""
 authors = ["eldermillenial <eldermillenial@protonmail.com>"]
 readme = "README.md"
@@ -14,7 +14,7 @@ repository = "https://github.com/theeldermillenial/minswap-py"
 [tool.poetry.dependencies]
 python = "^3.8.1"
 blockfrost-python = "0.5.3"
-pycardano = "0.9.0"
+pycardano = "0.10.0"
 pydantic = "1.10.4"
 python-dotenv = "0.21.1"
 numba = "^0.56.4"
